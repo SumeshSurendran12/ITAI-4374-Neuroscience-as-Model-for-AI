@@ -1,0 +1,87 @@
+ITAI4374_Portfolio_YourName
+│
+├── Module_01_Introduction_to_Neuroscience
+│   ├── Presentation
+│   │   └── ITAI_4374_Mod_01_Course_Intro.pptx
+│   ├── Assignments
+│   │   └── A01_A_Conversation_Between_Brain_and_AI.md
+│   ├── Module_Readings
+│   │   └── When_Artificial_Intelligence_and_Computational_Neuroscience_meet.pdf
+│   ├── Additional_Reading_and_Resources
+│   │   ├── Catalyzing_Next_Generation_Artificial_Intelligence_through_Neuro_AI.pdf
+│   │   ├── Brain_Inspired_Computational_Intelligence_via_Predictive_Coding_Aug2023.pdf
+│   │   └── Towards_Neural_AI_Introducing_Neuronal_Diversity_into_ANN.pdf
+│   └── Reflections.md
+│
+├── Module_02_Foundations_of_Neuroscience
+│   ├── Class_Presentation
+│   │   └── ITAI_4374_Mod_02_Foundations_of_Neuroscience.pptx
+│   ├── Case_Studies_and_Readings
+│   │   └── Cortical_Columns_Redefining_AI_with_Human_Brain_Architecture.pdf
+│   ├── Assignments
+│   │   └── No_Assignment.md
+│   ├── Additional_Materials_and_Readings
+│   │   └── Neuronal_Shape_and_Neuronal_Information_Processing.pdf
+│   └── Reflections.md
+│
+├── Module_03_Human_Brain_and_Its_Functions
+│   ├── Class_Presentation
+│   │   └── ITAI_4374_Mod_03_Human_Brain_and_Its_Functions.pptx
+│   ├── Case_Studies_and_Readings
+│   │   └── Brain_Neurons_Cognition_Computational_Neuroscience.pdf
+│   ├── Assignments
+│   │   ├── A03_Bridging_Neuroscience_and_AI.md
+│   │   └── L03_Exploring_Neural_Information_Processing.md
+│   ├── Additional_Materials_and_Readings
+│   │   ├── technologyreview_Understand_How_Brain_Works_for_True_AI.pdf
+│   │   ├── Algonauts_Project_2021_Human_Brain_Motion.pdf
+│   │   └── The_First_Computational_Theory_of_Mind_and_Brain.pdf
+│   └── Reflections.md
+│
+├── Module_04_Computational_Neuroscience
+│   ├── Class_Presentation
+│   │   └── ITAI_4374_Mod_04_Computational_Neuroscience.pptx
+│   ├── Assignments
+│   │   └── A04_From_Neurons_to_Networks_Decoding_Natures_AI_Blueprint.md
+│   ├── Readings_and_Support_Material
+│   │   ├── Computational_Neuroscience_Approach_to_Psychiatry.pdf
+│   │   ├── Computational_neuroscience_a_frontier_of_the_21st.pdf
+│   │   ├── Brief_Introduction_to_Computational_Neuroscience.pdf
+│   │   ├── Hodgkin_Huxley_Heritage_Channels_Circuits.pdf
+│   │   └── Getting_Started_in_Computational_Neuroscience.pdf
+│   └── Reflections.md
+│
+├── Module_05_Neurons_and_Neural_Networks
+│   ├── Class_Presentation
+│   │   └── ITAI_4374_Mod_05_Neurons_and_Neural_Networks.pptx
+│   ├── Assignments
+│   │   └── L05_Exploring_Convergence_Neuroscience_and_AI.md
+│   ├── Readings_and_Support_Materials
+│   │   ├── Foundations_of_Large_Language_Models.pdf
+│   │   ├── Propagation_of_an_Action_Potential.pdf
+│   │   ├── Tencent_HunYuan_Turbo_S.pdf
+│   │   ├── Brief_History_of_Neural_Networks.pdf
+│   │   └── Biological_Neural_Network_vs_ANN.pdf
+│   └── Reflections.md
+│
+├── Module_06_Sensory_Processing_and_Perception
+│   ├── Class_Presentation
+│   │   └── ITAI_4374_Mod_06_Sensory_Processing_and_Perception.pptx
+│   ├── Assignments
+│   │   └── L06_AI_Mindscape_Virtual_Perception_Exhibit.md
+│   ├── Readings_and_Support_Material
+│   │   ├── Recurrent_Processing_Theory_and_Consciousness.pdf
+│   │   ├── Sensory_Integration.pdf
+│   │   ├── Hacking_the_Predictive_Mind.pdf
+│   │   ├── Sensory_Perception_Fitness_Maximizing_Codes.pdf
+│   │   ├── Bridging_Neuroscience_and_AI_Insights_From_Retina_and_Beyond.pdf
+│   │   └── Highly_Sensitive_Brain_fMRI_Sensory_Processing.pdf
+│   └── Reflections.md
+│
+├── Final_Project
+│   ├── Proposal
+│   ├── Implementation
+│   ├── Results
+│   └── Reflections.md
+│
+└── README.md
